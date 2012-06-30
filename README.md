@@ -1,7 +1,12 @@
-Throw (The Game Platform)
+Throw (The Game Platform
+
 http://josephpcohen.com
+
 http://gravityscript.googlecode.com/
+
 http://ieee8023.github.com
+
+
 
 Copyright 2012, Joseph Paul Cohen
 Released under the GPLv3 License
