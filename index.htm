@@ -44,13 +44,13 @@ This uses the gravityscript code which is created from google gravity
 
 <script src="http://gravityscript.googlecode.com/svn/trunk/gravityscript-explicit.js"></script>
 <script>
-function checkChrome(){
-	  var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
-	  if (!is_chrome){
-		  alert("Please use the Chrome browser to play this game.")
+function checkBrowser(){
+	  var is_ie = navigator.userAgent.toLowerCase().indexOf('MSIE') > -1;
+	  if (!is_ie){
+		  alert("Please use Chrome or Firefox to play this game.")
 	  }
 }
-checkChrome();
+checkBrowser();
 </script>
 Throw (The Game Platform) - By Joseph Paul Cohen 2012
 </body></html>
